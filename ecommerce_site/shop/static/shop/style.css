@@ -5,5 +5,12 @@
 }
 .card-title{
     font-weight: 900;
+    
 }
 
+.card-body{
+    position:relative;
+    bottom:0;
+
+
+}
